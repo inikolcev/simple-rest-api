@@ -6,4 +6,5 @@ yum groupinstall -y 'development tools'
 pip install -r requirements.txt  
 
 set env variable SQLALCHEMY_DATABASE_URI to the database connection string  
-Get sample database [here](https://github.com/datacharmer/test_db)
+Get sample database [here](https://github.com/datacharmer/test_db)  
+Endpoint: api-elb-867911659.us-west-2.elb.amazonaws.com
